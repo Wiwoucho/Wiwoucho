@@ -7,10 +7,11 @@
 - 📫 How to reach me: [Liknedin](https://www.linkedin.com/in/tsvetomir-nikolov-9446b1256/)
   
 - ⚡ Fun fact: Love Snowboarding ❤️
-
-  ***SKILLS***
-  <br>
+ <br>
   <br/>
+   <br>
+  <br/>
+  ***SKILLS***
   ______________________________________________________________________________________________
   [![My Skills](https://skillicons.dev/icons?i=django,python,docker,regex,postgres)](https://skillicons.dev)
   ______________________________________________________________________________________________
