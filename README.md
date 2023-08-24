@@ -7,7 +7,11 @@
 - 📫 How to reach me: [Liknedin](https://www.linkedin.com/in/tsvetomir-nikolov-9446b1256/)
   
 - ⚡ Fun fact: Love Snowboarding ❤️
-- [![My Skills](https://skillicons.dev/icons?i=js,django,python,docker)](https://skillicons.dev)
+
+  SKILLS
+  ______________________________________________________________________________________________
+  [![My Skills](https://skillicons.dev/icons?i=js,django,python,docker)](https://skillicons.dev)
+  ______________________________________________________________________________________________
 
 <!--
 **Wiwoucho/Wiwoucho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
