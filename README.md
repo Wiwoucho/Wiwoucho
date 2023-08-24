@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on upgrading my algorithmic thinking
 - 🌱 I’m currently learning Django web framerowk
-- 📫 How to reach me:[Liknedin](https://www.linkedin.com/in/tsvetomir-nikolov-9446b1256/)
+- 📫 How to reach me: [Liknedin](https://www.linkedin.com/in/tsvetomir-nikolov-9446b1256/)
+- ⚡ Fun fact: Love Snowboarding <3
 
 <!--
 **Wiwoucho/Wiwoucho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
