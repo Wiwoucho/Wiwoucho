@@ -10,7 +10,7 @@
 
   SKILLS
   ______________________________________________________________________________________________
-  [![My Skills](https://skillicons.dev/icons?i=django,python,docker,windows,postgres)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=django,python,docker,regex,postgres)](https://skillicons.dev)
   ______________________________________________________________________________________________
 
 <!--
