@@ -26,6 +26,17 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiwoucho&show_icons=true&theme=dark)
   ______________________________________________________________________________________________
+  
+<br>
+
+
+  <br/>
+
+
+______________________________________________________________________________________________
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wiwoucho&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+______________________________________________________________________________________________
+
 
 
 <!--
