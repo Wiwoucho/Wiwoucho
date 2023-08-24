@@ -8,9 +8,9 @@
   
 - ⚡ Fun fact: Love Snowboarding ❤️
 
-
-
   ***SKILLS***
+  <br>
+  <br/>
   ______________________________________________________________________________________________
   [![My Skills](https://skillicons.dev/icons?i=django,python,docker,regex,postgres)](https://skillicons.dev)
   ______________________________________________________________________________________________
