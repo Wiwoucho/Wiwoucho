@@ -14,7 +14,7 @@
 
   ***SKILLS***
   ______________________________________________________________________________________________
-  [![My Skills](https://skillicons.dev/icons?i=django,python,docker,regex,postgres)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=django,python,docker,regex,postgres,linux)](https://skillicons.dev)
   ______________________________________________________________________________________________
 
 <br>
